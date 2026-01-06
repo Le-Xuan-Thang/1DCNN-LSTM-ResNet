@@ -4,7 +4,6 @@ A hybrid deep learning architecture combining **1D Convolutional Neural Networks
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Overview
 
@@ -166,6 +165,7 @@ If you use this code in your research, please cite:
 
 - **Author**: Le Xuan Thang
 - **GitHub**: [@Le-Xuan-Thang](https://github.com/Le-Xuan-Thang)
+- **Email**: lexuanthang.official@gmail.com; lexuanthang.official@outlook.com
 
 
 ## 🙏 Acknowledgments
