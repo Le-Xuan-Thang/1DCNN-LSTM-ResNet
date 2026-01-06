@@ -167,9 +167,6 @@ If you use this code in your research, please cite:
 - **Author**: Le Xuan Thang
 - **GitHub**: [@Le-Xuan-Thang](https://github.com/Le-Xuan-Thang)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
